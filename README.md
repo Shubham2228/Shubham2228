@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Shubham Kumar]!<br>💻 1st-year B.Tech CSE (Oracle) student<br>🔹 Learning the fundamentals of programming and databases<br>🔹 Knowledge of C, SQL, HTML, and CSS<br>🚀 Exploring development and problem-solving<br><br>🌱 Currently improving my coding skills and working on small projects.<br>📚 Open to learning new technologies and collaborating on interesting projects!<br><br>Let's connect! 😊
+👋 Hi, I'm [Shubham Kumar]!<br>💻 2nd-year B.Tech CSE (Oracle) student<br>🔹 Learning the fundamentals of programming and databases<br>🔹 Knowledge of C, SQL, HTML, and CSS<br>🚀 Exploring development and problem-solving<br><br>🌱 Currently improving my coding skills and working on small projects.<br>📚 Open to learning new technologies and collaborating on interesting projects!<br><br>Let's connect! 😊
 
 
 ## 🌐 Socials:
